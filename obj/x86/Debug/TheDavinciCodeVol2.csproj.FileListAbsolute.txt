@@ -1,0 +1,10 @@
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\bin\Debug\TheDavinciCodeVol2.exe
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\bin\Debug\TheDavinciCodeVol2.pdb
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\bin\Debug\OpenCvSharp.xml
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\obj\x86\Debug\TheDavinciCodeVol2.Form1.resources
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\obj\x86\Debug\TheDavinciCodeVol2.Properties.Resources.resources
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\obj\x86\Debug\TheDavinciCodeVol2.csproj.GenerateResource.Cache
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\obj\x86\Debug\TheDavinciCodeVol2.exe
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\obj\x86\Debug\TheDavinciCodeVol2.pdb
+C:\Users\MPCL2\Desktop\우끼끼\TheDavinciCodeVol2\obj\x86\Debug\TheDavinciCodeVol2.csprojResolveAssemblyReference.cache
